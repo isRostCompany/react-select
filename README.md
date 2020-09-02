@@ -13,6 +13,7 @@ React Select is funded by [Thinkmill](https://www.thinkmill.com.au) and [Atlassi
 
 For the story behind this component, watch Jed's talk at React Conf 2019 - [building React Select](https://youtu.be/yS0jUnmBujE)
 
+
 Features include:
 
 - Flexible approach to data, with customisable functions
@@ -84,7 +85,7 @@ const options = [
 
 export default function App() {
   const [selectedOption, setSelectedOption] = useState(null);
-  
+
   return (
     <div className="App">
       <Select
