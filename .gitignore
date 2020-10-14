@@ -38,6 +38,8 @@ bower_components
 .DS_Store
 .env
 package-lock.json
+yarn.lock
 
 # Notes
 .NOTES.md
+.npmrc
